@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/mask-detection-group-2/static/css/main.80ed7c56.css",
+    "main.js": "/mask-detection-group-2/static/js/main.1623df45.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/mask-detection-group-2/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/TranDucHoangNam.png": "/mask-detection-group-2/static/media/TranDucHoangNam.972f8f0f0ed86ca506bc.png",
+    "static/media/TrinhVanChien.png": "/mask-detection-group-2/static/media/TrinhVanChien.689d32a1e009829d1930.png",
+    "static/media/CuMinhHoang.png": "/mask-detection-group-2/static/media/CuMinhHoang.f67f836a3d73b43898ff.png",
+    "static/media/NguyenTrucCuong.png": "/mask-detection-group-2/static/media/NguyenTrucCuong.5f9182d25a2f319ed1d6.png",
+    "static/media/LeTranThang.png": "/mask-detection-group-2/static/media/LeTranThang.fcd74b4cb7f320d8c3b0.png",
+    "static/media/HoMinhKhoi.png": "/mask-detection-group-2/static/media/HoMinhKhoi.40c64914b886e8fd785d.png",
+    "static/media/logo.png": "/mask-detection-group-2/static/media/logo.ec44bb9a265af60e677a.png",
+    "static/media/maskicon.png": "/mask-detection-group-2/static/media/maskicon.f2c346d774ffdb95646d.png",
+    "index.html": "/mask-detection-group-2/index.html",
+    "main.80ed7c56.css.map": "/mask-detection-group-2/static/css/main.80ed7c56.css.map",
+    "main.1623df45.js.map": "/mask-detection-group-2/static/js/main.1623df45.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/mask-detection-group-2/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.80ed7c56.css",
+    "static/js/main.1623df45.js"
+  ]
+}
